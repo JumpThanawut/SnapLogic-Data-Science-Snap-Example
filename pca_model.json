@@ -1,0 +1,26 @@
+[
+  {
+    "metadata" : {
+      "dimension" : 2,
+      "varianceCoverage" : 0.9776317750248046,
+      "variance" : [
+        0.9246162071742695,
+        0.05301556785053505
+      ],
+      "numericField" : [
+        "sepal_length",
+        "sepal_width",
+        "petal_length",
+        "petal_width"
+      ],
+      "categoricalField" : [ ],
+      "mean" : [
+        5.843333333333334,
+        3.0539999999999994,
+        3.758666666666668,
+        1.1986666666666668
+      ]
+    },
+    "model" : "rO0ABXNyABlvcmcuZWptbC5kYXRhLkRNYXRyaXhSTWFq5SXoqxLhzQECAAB4cgAZb3JnLmVqbWwuZGF0YS5ETWF0cml4MVJvd0NuyHZ8o3xXAgAAeHIAF29yZy5lam1sLmRhdGEuRE1hdHJpeEQxlOb44YhY4Y4CAANJAAdudW1Db2xzSQAHbnVtUm93c1sABGRhdGF0AAJbRHhwAAAABAAAAAJ1cgACW0Q+powUq2NaHgIAAHhwAAAAED/XJEkHuytIv7UPku+Qtnc/62kJ51xwIT/W90yD5q0zv+UCX+3nbwm/51nNwkqvZD/Gf4vYtuZ8P7Mf9pYHkeQ/4peHm32WHr/jFdtizfvsv7KQ8BRjnn2/4ZHoL+Kl2r/UTeYEJietP9S99j0dBaY/3rO3RHaMjL/oCS38RgrU"
+  }
+]
